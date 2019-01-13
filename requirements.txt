@@ -1,0 +1,5 @@
+fake_useragent
+requests
+fire==0.1.0
+pillow
+itchat
