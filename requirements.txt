@@ -1,4 +1,4 @@
-fake_useragent
+fake-useragent
 requests
 fire==0.1.0
 pillow
